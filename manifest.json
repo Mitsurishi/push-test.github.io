@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "http://altcraft.stepan-volkov.lan",
+  "display": "standalone"
+}
